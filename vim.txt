@@ -1,0 +1,18 @@
+# Vim (Vi IMproved) - a popular command-line text editor
+# Fundamental Modes >>
+
+i : Insert Mode Esc : Return to Normal Mode
+dd : Delete current line
+dw : Delete word starting at a cursor
+u : Undo
+r : Replace
+0 : Start of the line
+$ : End of the line
+yy : Copy (Yank) line
+p  : Paste below
+cw : Change word  
+w : Next word     
+/text : Search for   
+.  : Repeat last action
+b : Back 1 word   
+":%s/word1/word2/g" : Swap word1 with word2
